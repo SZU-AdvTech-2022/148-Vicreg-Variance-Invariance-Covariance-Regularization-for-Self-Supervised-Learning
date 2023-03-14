@@ -1,0 +1,7 @@
+@inproceedings{REPO-148,
+    author = "Yang, Zhong and Zheng, Bolong and Li, Guohui and Zhao, Xi and Zhou, Xiaofang and Jensen, Christian S",
+    booktitle = "Proceedings of the VLDB Endowment. International Conference on Very Large Data Bases",
+    pages = "1081--1092",
+    title = "{Adaptive Top-k Overlap Set Similarity Joins}",
+    year = "2020"
+}
